@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @itsyashrajj
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Kotlin
-- 📫 Contact me from my profile discriptioin
+- 👋 Hi, I’m @itsyashrajj.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Kotlin & Javascript.
+- Feel free to contact 😀
+
 
 <!---
 itsyashrajj/itsyashrajj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
